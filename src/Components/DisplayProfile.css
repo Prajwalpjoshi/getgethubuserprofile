@@ -1,0 +1,36 @@
+.card {
+  padding: 1.5rem;
+}
+
+.image {
+  margin-right: 20px;
+}
+
+.image img {
+  border-radius: 50%;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.stats {
+  padding: 0.5rem;
+  margin-top: 1rem;
+  background-color: black;
+  border-radius: 0.5rem;
+  color: #fff;
+}
+
+.stats .articles,
+.stats .followers,
+.stats .rating {
+  font-weight: bold;
+}
+
+.stats .number1,
+.stats .number2,
+.stats .number3 {
+  font-size: 1.2rem;
+}

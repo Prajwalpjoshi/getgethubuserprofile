@@ -1,0 +1,27 @@
+.container {
+    margin: 90px auto;
+    padding: 20px;
+    max-width: 600px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: whitesmoke;
+  }
+  
+  .form-inline {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 70%;
+    margin-right: 10px;
+  }
+  
+  .btn {
+    width: 20%;
+    background-color: black; /* Background color */
+    color: white; /* Text color */
+  }
+  
